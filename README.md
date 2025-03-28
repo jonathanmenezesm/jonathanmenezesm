@@ -1,6 +1,6 @@
 # 👋 Olá! Eu sou Jonathan Menezes
 
-Bem-vindo ao meu perfil no GitHub! Sou um entusiasta da tecnologia e atualmente estou focado no desenvolvimento de aplicações web, automações e soluções baseadas em nuvem. 🚀
+Bem-vindo ao meu perfil no GitHub! Sou um estudante de tecnologia e atualmente estou focado no desenvolvimento fullstack de aplicações web, automações e soluções baseadas em nuvem. 🚀
 
 ## 🔧 Tecnologias e Ferramentas
 
