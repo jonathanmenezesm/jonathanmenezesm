@@ -5,7 +5,7 @@ Bem-vindo ao meu perfil no GitHub! Sou um estudante de tecnologia e atualmente e
 ## 🔧 Tecnologias e Ferramentas
 
 - **Linguagens:** PHP, JavaScript, SQL, Python
-- **Banco de Dados:** MySQL, Google Sheets (com Apps Script)
+- **Banco de Dados:** MySQL, Google Sheets (com Apps Script), PostgreSQL
 - **Cloud:** AWS, Netlify, Google Cloud, Vercel, Render
 - **Desenvolvimento Web:** HTML, CSS, React, Flask
 - **Automação:** Google Apps Script, API REST
